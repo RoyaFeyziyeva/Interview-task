@@ -19,7 +19,7 @@ const HeroSection = () => {
         </div>
       </div>
       
-      <img className={styles.heroImage} src="/public/image.png" alt="" />
+      <img className={styles.heroImage} src="https://s3-alpha-sig.figma.com/img/9f0d/b980/ed5e533fef776f279001b95639ea41fc?Expires=1742169600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=U347tFTB6TIbOxlazHsTa~10FgMyWgR400P-Chk1NcsX4kmFYsG8FGmQFXfq1MUoaCoagBJyvp7fUqU7c1U5dBu0LmFbuayGp-D7Mki~st5BFw0ECnW-sg0rL889XDifwvpSWLqPd74bCIUuGhSBzVjP7K6Mrhab8-P6jxLlXejXiwOKRqLMoGaeUI1bB6gHFzXPPIy3FYqGcUmN5A~03V5vWthhSObjc07NcAp9w3mbCbQXOJhwUEvjQmEnXEpUDGkwsVYmq46EtLHd~D8XDdWrSzgR~FedGpSRLCX0wsZnlMNZaY74QBjdOTPaaqKYLA2kP6CJrghCVNlkP2U0wg__" alt="img" />
      
     </section>
   );
